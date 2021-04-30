@@ -1,1 +1,1 @@
-# wt-assignment-1-
+This is my first assignment on web technologies. I have created it using Repl.it and visual studio code. Portfolio page is made on basis of Html.
